@@ -1,0 +1,436 @@
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\BLL.dll
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\BLL.pdb
+C:\Users\zy\source\repos\Management_System\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\zy\source\repos\Management_System\BLL\obj\Debug\BLL.dll
+C:\Users\zy\source\repos\Management_System\BLL\obj\Debug\BLL.pdb
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\DAT.dll
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\Model.dll
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\DAT.pdb
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\Model.pdb
+C:\Users\zy\source\repos\Management_System\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\zy\source\repos\Management_System\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\zy\source\repos\Management_System\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\zy\source\repos\Management_System\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\zy\source\repos\Management_System\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\Common.dll
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\Common.pdb
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\log4net.config
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\log4net.dll
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\log4net.xml
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zy\source\repos\Management_System\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\log4net.config
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\BLL.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\BLL.pdb
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\DAT.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\log4net.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\Model.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\Common.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\DAT.pdb
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\Model.pdb
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\log4net.xml
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\研究生项目\晶科越南项目\Management_System\BLL\bin\Debug\Common.pdb
+D:\研究生项目\晶科越南项目\Management_System\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\研究生项目\晶科越南项目\Management_System\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\研究生项目\晶科越南项目\Management_System\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\研究生项目\晶科越南项目\Management_System\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\研究生项目\晶科越南项目\Management_System\BLL\obj\Debug\BLL.dll
+D:\研究生项目\晶科越南项目\Management_System\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.pdb
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\64634\Desktop\最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\64634\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\64634\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\64634\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\64634\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\BLL\obj\Debug\BLL.pdb
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zy\Desktop\最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\zy\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\zy\Desktop\最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\zy\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\zy\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\zy\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\zy\Desktop\最新版managemen_system\BLL\obj\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\BLL\obj\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\BLL\obj\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.pdb
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\BLL\obj\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\DAT.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\Common.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\DAT.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\bin\Debug\Common.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\obj\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\BLL\obj\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\BLL.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\DAT.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\Common.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\DAT.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\bin\Debug\Common.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\obj\Debug\Interop.ActProgType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\obj\Debug\BLL.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\BLL\obj\Debug\BLL.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\obj\Debug\BLL.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\obj\Debug\BLL.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\log4net.config
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\BLL.dll.config
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\BLL.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\BLL.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\DAT.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\log4net.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\Model.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\SqlSugar.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\Common.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\DAT.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\Model.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\log4net.xml
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\bin\Debug\Common.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\obj\Debug\Interop.ActProgTypeLib.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\BLL\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\Interop.ActProgTypeLib.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\log4net.config
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\BLL.dll.config
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\BLL.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\BLL.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\DAT.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\log4net.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Model.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\SqlSugar.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Common.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\DAT.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Model.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\log4net.xml
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Common.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\log4net.config
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\BLL.dll.config
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\BLL.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\BLL.pdb
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\DAT.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\log4net.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Model.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\SqlSugar.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Common.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\DAT.pdb
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Model.pdb
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\log4net.xml
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\bin\Debug\Common.pdb
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\Interop.ActProgTypeLib.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\BLL\obj\Debug\BLL.pdb
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\log4net.config
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\BLL.dll.config
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\BLL.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\BLL.pdb
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\DAT.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\log4net.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\Model.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\SqlSugar.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\Common.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\DAT.pdb
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\Model.pdb
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\log4net.xml
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\bin\Debug\Common.pdb
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\obj\Debug\Interop.ActProgTypeLib.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\obj\Debug\BLL.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\BLL\obj\Debug\BLL.pdb
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\log4net.config
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\BLL.dll.config
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\BLL.dll
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\BLL.pdb
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\DAT.dll
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\log4net.dll
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\Model.dll
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\SqlSugar.dll
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\Common.dll
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\DAT.pdb
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\Model.pdb
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\log4net.xml
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\宝山项目\保山tcpmodbus\BLL\bin\Debug\Common.pdb
+D:\宝山项目\保山tcpmodbus\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\宝山项目\保山tcpmodbus\BLL\obj\Debug\Interop.ActProgTypeLib.dll
+D:\宝山项目\保山tcpmodbus\BLL\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\宝山项目\保山tcpmodbus\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\宝山项目\保山tcpmodbus\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\宝山项目\保山tcpmodbus\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\宝山项目\保山tcpmodbus\BLL\obj\Debug\BLL.dll
+D:\宝山项目\保山tcpmodbus\BLL\obj\Debug\BLL.pdb
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\Interop.ActProgTypeLib.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\Interop.ActUtlTypeLib.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.pdb
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.config
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.dll.config
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.pdb
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\DAT.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Model.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\SqlSugar.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Common.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\DAT.pdb
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Model.pdb
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.xml
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Common.pdb
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.config
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.dll.config
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.pdb
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\DAT.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Model.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\SqlSugar.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Common.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\DAT.pdb
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Model.pdb
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.xml
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Common.pdb
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.config
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.dll.config
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\DAT.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\SqlSugar.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\DAT.pdb
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\Interop.ActProgTypeLib.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\BLL\obj\Debug\BLL.pdb

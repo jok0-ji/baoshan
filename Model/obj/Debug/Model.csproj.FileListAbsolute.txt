@@ -1,0 +1,200 @@
+C:\Users\zy\source\repos\Management_System\Model\bin\Debug\Model.dll
+C:\Users\zy\source\repos\Management_System\Model\bin\Debug\Model.pdb
+C:\Users\zy\source\repos\Management_System\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\zy\source\repos\Management_System\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\zy\source\repos\Management_System\Model\obj\Debug\Model.dll
+C:\Users\zy\source\repos\Management_System\Model\obj\Debug\Model.pdb
+C:\Users\zy\source\repos\Management_System\Model\bin\Debug\log4net.config
+C:\Users\zy\source\repos\Management_System\Model\bin\Debug\log4net.dll
+C:\Users\zy\source\repos\Management_System\Model\bin\Debug\log4net.xml
+C:\Users\zy\source\repos\Management_System\Model\obj\Debug\Model.csproj.CopyComplete
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\Debug\log4net.config
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\Debug\Model.dll
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\Debug\Model.pdb
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\Debug\log4net.dll
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\Debug\log4net.xml
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\Debug\Model.csproj.CopyComplete
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\Debug\Model.dll
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\最新版managemen_system\Model\obj\Debug\Model.pdb
+C:\Users\64634\Desktop\最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\64634\Desktop\最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\64634\Desktop\最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\64634\Desktop\最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\64634\Desktop\最新版managemen_system\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\最新版程序\最新版managemen_system\Model\obj\Debug\Model.pdb
+C:\Users\zy\Desktop\最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\zy\Desktop\最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\zy\Desktop\最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\zy\Desktop\最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\zy\Desktop\最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\zy\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\zy\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\zy\Desktop\最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\zy\Desktop\最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\zy\Desktop\最新版managemen_system\Model\obj\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\最新版managemen_system\Model\obj\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.1)最新版managemen_system\Model\obj\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system\Model\obj\Debug\Model.pdb
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\zy\Desktop\(5.6)最新版managemen_system\Model\obj\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\obj\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.6)最新版managemen_system - 副本\Model\obj\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\bin\Debug\log4net.config
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\bin\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\bin\Debug\Model.pdb
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\bin\Debug\log4net.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\bin\Debug\log4net.xml
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\obj\Debug\Model.dll
+C:\Users\64634\Desktop\C#项目\越南项目\(5.17)最新版managemen_system\Model\obj\Debug\Model.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\bin\Debug\log4net.config
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\bin\Debug\Model.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\bin\Debug\Model.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\bin\Debug\log4net.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\bin\Debug\log4net.xml
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\obj\Debug\Model.csproj.CopyComplete
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\obj\Debug\Model.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表\Model\obj\Debug\Model.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\log4net.config
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\Model.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\Model.pdb
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\log4net.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\log4net.xml
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.csproj.CopyComplete
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.dll
+D:\研究生项目备份\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.pdb
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\log4net.config
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\Model.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\Model.pdb
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\log4net.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\bin\Debug\log4net.xml
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.csproj.CopyComplete
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.dll
+D:\丽江项目\managemen_system - 切方报表 - 副本\Model\obj\Debug\Model.pdb
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\bin\Debug\log4net.config
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\bin\Debug\Model.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\bin\Debug\Model.pdb
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\bin\Debug\log4net.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\bin\Debug\log4net.xml
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\obj\Debug\Model.csproj.CopyComplete
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\obj\Debug\Model.dll
+D:\丽江项目\managemen_system - 切方报表 7.8.1\Model\obj\Debug\Model.pdb
+D:\宝山项目\保山tcpmodbus\Model\bin\Debug\log4net.config
+D:\宝山项目\保山tcpmodbus\Model\bin\Debug\Model.dll
+D:\宝山项目\保山tcpmodbus\Model\bin\Debug\Model.pdb
+D:\宝山项目\保山tcpmodbus\Model\bin\Debug\log4net.dll
+D:\宝山项目\保山tcpmodbus\Model\bin\Debug\log4net.xml
+D:\宝山项目\保山tcpmodbus\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\宝山项目\保山tcpmodbus\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\宝山项目\保山tcpmodbus\Model\obj\Debug\Model.csproj.CopyComplete
+D:\宝山项目\保山tcpmodbus\Model\obj\Debug\Model.dll
+D:\宝山项目\保山tcpmodbus\Model\obj\Debug\Model.pdb
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.config
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\Model.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\Model.pdb
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.xml
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.CopyComplete
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.dll
+D:\宝山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.pdb
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.config
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\Model.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\Model.pdb
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.xml
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.dll
+C:\Users\zy\Desktop\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.config
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\保山项目\保山tcpmodbus 两个棒子分开读\Model\obj\Debug\Model.pdb

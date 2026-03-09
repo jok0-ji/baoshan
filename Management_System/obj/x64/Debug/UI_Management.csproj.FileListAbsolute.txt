@@ -1,0 +1,2 @@
+D:\研究生项目\晶科越南项目\Management_System\Management_System\obj\x64\Debug\UI_Management.csproj.AssemblyReference.cache
+D:\研究生项目\晶科越南项目\Management_System\Management_System\obj\x64\Debug\Interop.ActUtlTypeLib.dll

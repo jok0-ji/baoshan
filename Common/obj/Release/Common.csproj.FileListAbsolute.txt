@@ -1,0 +1,9 @@
+C:\Users\zy\source\repos\Management_System\Common\bin\Release\Common.dll
+C:\Users\zy\source\repos\Management_System\Common\bin\Release\Common.pdb
+C:\Users\zy\source\repos\Management_System\Common\bin\Release\log4net.dll
+C:\Users\zy\source\repos\Management_System\Common\bin\Release\log4net.xml
+C:\Users\zy\source\repos\Management_System\Common\obj\Release\Common.csproj.AssemblyReference.cache
+C:\Users\zy\source\repos\Management_System\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\zy\source\repos\Management_System\Common\obj\Release\Common.csproj.CopyComplete
+C:\Users\zy\source\repos\Management_System\Common\obj\Release\Common.dll
+C:\Users\zy\source\repos\Management_System\Common\obj\Release\Common.pdb

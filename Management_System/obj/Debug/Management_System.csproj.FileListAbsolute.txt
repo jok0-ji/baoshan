@@ -1,0 +1,13 @@
+C:\Users\zy\source\repos\Management_System\Management_System\bin\Debug\Management_System.exe.config
+C:\Users\zy\source\repos\Management_System\Management_System\bin\Debug\Management_System.exe
+C:\Users\zy\source\repos\Management_System\Management_System\bin\Debug\Management_System.pdb
+C:\Users\zy\source\repos\Management_System\Management_System\bin\Debug\MetroFramework.dll
+C:\Users\zy\source\repos\Management_System\Management_System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\zy\source\repos\Management_System\Management_System\obj\Debug\Management_System.csproj.AssemblyReference.cache
+C:\Users\zy\source\repos\Management_System\Management_System\obj\Debug\Management_System.Properties.Resources.resources
+C:\Users\zy\source\repos\Management_System\Management_System\obj\Debug\Management_System.csproj.GenerateResource.cache
+C:\Users\zy\source\repos\Management_System\Management_System\obj\Debug\Management_System.csproj.CoreCompileInputs.cache
+C:\Users\zy\source\repos\Management_System\Management_System\obj\Debug\Management_System.csproj.CopyComplete
+C:\Users\zy\source\repos\Management_System\Management_System\obj\Debug\Management_System.exe
+C:\Users\zy\source\repos\Management_System\Management_System\obj\Debug\Management_System.pdb
+C:\Users\zy\source\repos\Management_System\Management_System\obj\Debug\Management_System.MainForm.resources

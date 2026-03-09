@@ -1,0 +1,9 @@
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\x64\Debug\log4net.config
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\x64\Debug\Model.dll
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\x64\Debug\Model.pdb
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\x64\Debug\log4net.dll
+D:\研究生项目\晶科越南项目\Management_System\Model\bin\x64\Debug\log4net.xml
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\x64\Debug\Model.csproj.CoreCompileInputs.cache
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\x64\Debug\Model.csproj.CopyComplete
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\x64\Debug\Model.dll
+D:\研究生项目\晶科越南项目\Management_System\Model\obj\x64\Debug\Model.pdb
